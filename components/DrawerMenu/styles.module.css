@@ -1,0 +1,13 @@
+.itemStyle{
+    font-size: 14px;
+    cursor: pointer;
+ 
+    color: gray;
+    text-decoration-line: underline;
+    display: inline-block;
+  
+}
+
+.itemStyle:hover{
+    color: black;
+}

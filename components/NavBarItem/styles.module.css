@@ -1,0 +1,10 @@
+.itemStyle{
+    font-size: 18px;
+    color: black;
+    cursor: pointer;
+    margin: 0 15px
+}
+
+.itemStyle:hover{
+    color: blueviolet;
+}

@@ -1,0 +1,335 @@
+[
+  {
+    "parentId": null,
+    "name": "Տեխնիկա և էլեկտրոնիկա",
+    "id": 1,
+    "level": 1
+  },
+  {
+    "parentId": null,
+    "name": "Կահույք",
+    "id": 2,
+    "level": 1
+  },
+  {
+    "parentId": null,
+    "name": "Տուն և այգի",
+    "id": 3,
+    "level": 1
+  },
+  {
+    "parentId": null,
+    "name": "Ակցիաներ",
+    "id": 4,
+    "level": 1
+  },
+
+  {
+    "parentId": 1,
+    "name": "Աուդիո-վիդեո տեխնիկա",
+    "id": 5,
+    "level": 2,
+  
+     "url": "(https://cdn-icons-png.flaticon.com/512/3500/3500775.png)"
+  },
+  {
+    "parentId": 5,
+    "name": "ՖՈՏՈԽՑԻԿՆԵՐ",
+    "id": 11,
+    "level": 3
+  },
+  {
+    "parentId": 5,
+    "name": "ՀԵՌՈՒՍՏԱՑՈՒՅՑՆԵՐ",
+    "id": 12,
+    "level": 3
+  },
+  {
+    "parentId": 5,
+    "name": "ԵՐԱԺՇՏԱԿԱՆ ՀԱՄԱԿԱՐԳԵՐ",
+    "id": 13,
+    "level": 3
+  },
+  {
+    "parentId": 5,
+    "name": "ՏՆԱՅԻՆ ԿԻՆՈԹԱՏՐՈՆՆԵՐ",
+    "id": 14,
+    "level": 3
+  },
+  
+  
+  
+
+  {
+    "parentId": 1,
+    "name": "ՀԱՄԱԿԱՐԳԻՉՆԵՐ ԵՒ ՆՈԹԲՈՒՔՆԵՐ",
+    "id": 6,
+    "level": 2
+  },
+
+  {
+    "parentId": 6,
+    "name": "Նոթբուքներ",
+    "id": 9,
+    "level": 3
+  },
+  {
+    "parentId": 6,
+    "name": "ՊԼԱՆՇԵՏՆԵՐ",
+    "id": 10,
+    "level": 3
+  },
+
+  {
+    "parentId": 6,
+    "name": "ՄՈՆՈԲԼՈԿ ՀԱՄԱԿԱՐԳԻՉՆԵՐ",
+    "id": 11,
+    "level": 3
+  },
+  {
+    "parentId": 6,
+    "name": "ՄՈՆԻՏՈՐՆԵՐ",
+    "id": 12,
+    "level": 3
+  },
+  {
+    "parentId": 6,
+    "name": "ՄԿՆԻԿՆԵՐ",
+    "id": 12,
+    "level": 3
+  },
+  {
+    "parentId": 6,
+    "name": "ՍՏԵՂՆԱՇԱՐԵՐ",
+    "id": 13,
+    "level": 3
+  },
+  {
+    "parentId": 1,
+    "name": "ՀԵՌԱԽՈՍՆԵՐ ԵՎ ԱՔՍԵՍՈՒԱՐՆԵՐ",
+    "id": 7,
+    "level": 2
+  },
+  {
+    "parentId": 7,
+    "name": "ՍՄԱՐԹ ՀԵՌԱԽՈՍՆԵՐ",
+    "id": 8,
+    "level": 3
+  },
+  {
+    "parentId": 7,
+    "name": "ՍՄԱՐԹ ԺԱՄԱՑՈՒՅՑՆԵՐ",
+    "id": 9,
+    "level": 3
+  },
+  {
+    "parentId": 7,
+    "name": "ՀԵՌԱԽՈՍՆԵՐ",
+    "id": 10,
+    "level": 3
+  },
+  {
+    "parentId": 7,
+    "name": "TWS ԱԿԱՆՋԱԿԱԼՆԵՐ",
+    "id": 11,
+    "level": 3
+  },
+  {
+    "parentId": 7,
+    "name": "ԲՋՋԱՅԻՆ ՀԵՌԱԽՈՍՆԵՐ",
+    "id": 12,
+    "level": 3
+  },
+  
+  {
+    "parentId": 1,
+    "name": "ԽԱՂԱՅԻՆ ՀԱՄԱԿԱՐԳԵՐ",
+    "id": 8,
+    "level": 2
+  },
+  {
+    "parentId": 1,
+    "name": "ՋԵՌՈՒՑՈՒՄ ԵՒ ՀՈՎԱՑՈՒՄ",
+    "id": 9,
+    "level": 2
+  },
+  {
+    "parentId": 1,
+    "name": "ԽՈՀԱՆՈՑԱՅԻՆ ՏԵԽՆԻԿԱ",
+    "id": 10,
+    "level": 2
+  },
+
+  {
+    "parentId": 1,
+    "name":" ԳԵՂԵՑԿՈՒԹՅՈՒՆ ԵՒ ԽՆԱՄՔ",
+    "id": 11,
+    "level": 2
+  },
+  {
+    "parentId": 1,
+    "name": "ԿԵՆՑԱՂԱՅԻՆ ՏԵԽՆԻԿԱ",
+    "id": 11,
+    "level": 2
+  },
+  {
+    "parentId": 1,
+    "name": "ԽԵԼԱՑԻ ՏՈՒՆ",
+    "id": 12,
+    "level": 2
+  },
+  {
+    "parentId": 2,
+    "name": "Հյուրասենյակի կահույք",
+    "id": 9,
+    "level": 2
+  },
+ 
+  {
+    "parentId": 2,
+    "name": "Ննջարանի կահույք",
+    "id": 10,
+    "level": 2
+  },
+  {
+    "parentId": 2,
+    "name": "ՆԱԽԱՍՐԱՀԻ ԿԱՀՈՒՅՔ",
+    "id": 22,
+    "level": 2
+  },
+  {
+    "parentId": 2,
+    "name": "ԱՅԳՈՒ ԿԱՀՈՒՅՔ",
+    "id": 23,
+    "level": 2
+  },
+  {
+    "parentId": 2,
+    "name": "ԼՈԳԱՍԵՆՅԱԿԻ ԿԱՀՈՒՅՔ",
+    "id": 24,
+    "level": 2
+  },
+  {
+    "parentId": 2,
+    "name": "ՆԵՐՔՆԱԿՆԵՐ",
+    "id": 25,
+    "level": 2
+  },
+  {
+    "parentId": 2,
+    "name": "ԴՌՆԵՐ ԵՎ ՊԱՏՈՒՀԱՆՆԵՐ",
+    "id": 26,
+    "level": 2
+  },
+  
+  
+ 
+  {
+    "parentId": 8,
+    "name": "ԽԱՂԱՅԻՆ ՀԱՄԱԿԱՐԳԻՉՆԵՐ",
+    "id": 12,
+    "level": 3
+  },
+  {
+    "parentId": 8,
+    "name": "ԽԱՂԱՅԻՆ ՀԱՄԱԿԱՐԳԻՉՆԵՐ",
+    "id": 12,
+    "level": 3
+  },
+  {
+    "parentId": 8,
+    "name": "ԽԱՂԱՅԻՆ ՍԿԱՎԱՌԱԿՆԵՐ",
+    "id": 13,
+    "level": 3
+  },
+  {
+    "parentId": 8,
+    "name": "PS ԱՔՍԵՍՈՒԱՐՆԵՐ",
+    "id": 14,
+    "level": 3
+  },
+  {
+    "parentId": 1,
+    "name": "ԽՈՇՈՐ ԿԵՆՑԱՂԱՅԻՆ",
+    "id": 13,
+    "level": 2
+  },
+  {
+    "parentId": 13,
+    "name": "Սառնարաններ",
+    "id": 14,
+    "level": 3
+  },
+  {
+    "parentId": 3,
+    "name": "Կենցաղային քիմիա և հիգիենա",
+    "id": 15,
+    "level": 2
+  },
+  {
+    "parentId": 3,
+    "name": "Գործիքներ և սարքավորումներ",
+    "id": 16,
+    "level": 2
+  },
+  {
+    "parentId": 3,
+    "name": "ՁԵՌՔԻ ԳՈՐԾԻՔՆԵՐ",
+    "id": 17,
+    "level": 2
+  },
+  {
+    "parentId": 3,
+    "name": "ՄԱՆԿԱԿԱՆ",
+    "id": 17,
+    "level": 2
+  },
+  {
+    "parentId": 3,
+    "name": "ՍՊՈՐՏ ԵՎ ՏՐԱՆՍՊՈՐՏ",
+    "id": 18,
+    "level": 2
+  },
+  {
+    "parentId": 3,
+    "name": "ԽԱՂԱԼԻՔՆԵՐ",
+    "id": 19,
+    "level": 2
+  },
+  {
+    "parentId": 3,
+    "name": "ԽՈՀԱՆՈՑԱՅԻՆ ՊԱՐԱԳԱՆԵՐ",
+    "id": 20,
+    "level": 2
+  },
+  {
+    "parentId": 16,
+    "name": "Պտուտակահան",
+    "id": 17,
+    "level": 3
+  },
+  {
+    "parentId": 2,
+    "name": "Խոհանոցային կահույք",
+    "id": 18,
+    "level": 2
+  },
+  {
+    "parentId": 2,
+    "name": "Գրասենյակային կահույք",
+    "id": 19,
+    "level": 2
+  },
+  {
+    "parentId": 19,
+    "name": "Գրասեղաններ",
+    "id": 20,
+    "level": 3
+  },
+  {
+    "parentId": 16,
+    "name": "Ֆրեզեր",
+    "id": 21,
+    "level": 3
+  }
+]

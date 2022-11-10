@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "name": "Հեռուստացույց SAMSUNG",
+      "imageUrl": "https://vega.am/image/cache/catalog/1Na/UE-24N4500AUXRU%20(1)-540x400.jpg",
+      "price": 173600,
+      "categoryId": 11,
+      "rate": 4.5,
+      "make": "Canon",
+      "views": 78,
+      "specialOffer": true
+    },
+    {
+      "id": 2,
+      "name": "Թվային Ֆոտոխցիկ NIKON D7500 18-140VR KIT",
+      "imageUrl": "https://vega.am/image/cache/catalog/1HRACH/2020/SEPTEMBER/NIKON%20D7500%2018-140VR%20KIT-540x400.jpg",
+      "price": 212800,
+      "categoryId": 11,
+      "rate": 3.2,
+      "make": "FUJIFILM",
+      "views": 124,
+      "specialOffer": true
+    },
+    {
+      "id": 3,
+      "name": "Բազմոց HOBEL ELISA FIX",
+      "imageUrl": "https://vega.am/image/cache/catalog/Angel/sofa/ELISA%20FIX%20BROWN%20NEO%2009%204-540x400.jpg",
+      "price": 361200,
+      "categoryId": 11,
+      "rate": 4.2,
+      "make": "BROWN NEO",
+      "views": 32,
+      "specialOffer": true
+    },
+    {
+      "id": 4,
+      "name": "Սմարթ Հեռախոս XIAOMI REDMI",
+      "imageUrl": "https://vega.am/image/cache/catalog/1HRACH/2020/2021/2022/April/Smart%20Heraxosnner/REDMI%209A%202GB%2032GB%20(BL)-540x400.jpg",
+      "price": 452000,
+      "categoryId": 11,
+      "rate": 4.8,
+      "make": "Canon",
+      "views": 231,
+      "specialOffer": true
+    },
+    {
+      "id": 5,
+      "name": "Լվացքի Մեքենա SAMSUNG",
+      "imageUrl": "https://vega.am/image/cache/catalog/1HRACH/2020/2021/2022/Hulis/Lvacqi%20Meqena/SAMSUNG%20WW65A4S20CELP%20(2)-540x400.jpg",
+      "price": 559900,
+      "categoryId": 11,
+      "rate": 3.2,
+      "make": "Canon",
+      "views": 165,
+      "specialOffer": true
+    },
+    {
+      "id": 6,
+      "name": "Մանկասայլակ RANT VEGA",
+      "imageUrl": "https://vega.am/image/cache/catalog/1HRACH/2020/2021/Noyember/RA057%20DEEP%20MALACHITE%20(2)-540x400.jpg",
+      "price": 558900,
+      "categoryId": 11,
+      "rate": 3.6,
+      "make": "Canon",
+      "views": 23,
+      "specialOffer": true
+    },
+    {
+      "id": 7,
+      "name": "Խոհանոցային Հավաքածու",
+      "imageUrl": "https://vega.am/image/cache/catalog/Angel/kitchen-set/HOBEL%20EX-C85%208681%206125%20(7)2-540x400.jpg",
+      "price": 558900,
+      "categoryId": 11,
+      "rate": 4.6,
+      "make": "EX-C85 8681/6125 (7)",
+      "views": 154,
+      "specialOffer": true
+    },
+    {
+      "id": 8,
+      "name": "թվային ֆոտոխցիկ CANON EOS 6D (MARK II) BODY",
+      "imageUrl": "https://vega.am/image/cache/catalog/1HRACH/2020/2021/2022/Hunvar/CANON%20EOS%206D%20(MARK%20II)%20BODY-540x400.jpg",
+      "price": 626700,
+      "categoryId": 11,
+      "rate": 4.1,
+      "make": "Fujifilm",
+      "views": 13,
+      "specialOffer": true
+    },
+    {
+      "id": 9,
+      "name": "թվային ֆոտոխցիկ FUJIFILM X-E4B/XF27MM F2.8",
+      "imageUrl": "https://vega.am/image/cache/catalog/1HRACH/2020/2021/Dektember/FUJIFILM%20X-E4BXF27mm%20F2%20(1)-540x400.jpg",
+      "price": 649000,
+      "categoryId": 11,
+      "rate": 4.1,
+      "make": "Fujifilm",
+      "views": 45,
+      "specialOffer": true
+    },
+    {
+      "id": 10,
+      "name": "թվային ֆոտոխցիկ FUJIFILM X-S10LK/15-45 CD",
+      "imageUrl": "https://vega.am/image/cache/catalog/1HRACH/2020/2021/Mart/FUJIFILM%20X-S10LK15-45%20CD-540x400.jpg",
+      "price": 699000,
+      "categoryId": 11,
+      "rate": 3.8,
+      "make": "Fujifilm",
+      "views": 300,
+      "specialOffer": true
+    }
+  ]
+  

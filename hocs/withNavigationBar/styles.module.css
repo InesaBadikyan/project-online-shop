@@ -1,0 +1,59 @@
+.navigationContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px;
+    border-bottom: 1px solid lightgray;
+}
+.block{
+    color: white;
+    display: flex;
+    height: 30px;
+    justify-content: center;
+    text-align: center;
+    flex-direction: row;
+ align-items: center;
+
+    padding: 15px;
+    background-color: mediumblue;
+    border-bottom: 1px solid lightgray;
+}
+.blocks{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px;
+    border-bottom: 1px solid lightgray;
+
+
+}
+
+.block1{
+    display: flex;
+    justify-content: space-between;
+   font-size: x-large;
+   color: blue;
+   cursor: pointer;
+}
+
+.block2{
+    display: flex;
+    justify-content: space-around;
+    width: 450px;
+   align-items: center;
+}
+.block3{
+    width: 300px;
+    border-left: 1px solid lightgray;
+   display: flex;
+   justify-content: space-around;
+
+}
+   
+#selectBox{
+    text-shadow: none;
+    background-color: blueviolet;
+}
+    
+
+
